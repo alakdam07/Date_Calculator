@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: grey;
+    color: #fff;
+}
+
+h1{
+    text-align: center;
+}
+
+.firstValue{
+    position: absolute;
+    top: 14%;
+    left: 35%;
+    border-radius: 5px;
+    padding:10px;
+}
+
+
+.secondValue{
+    position: absolute;
+    top: 14%;
+    left: 50%;
+    border-radius: 5px;
+    padding:10px;
+}
+
+.firstButton{
+    position: absolute;
+    top: 24%;
+    left: 35%;
+    padding:5px;
+    border-radius: 5px;
+    color: #fff;
+    background: orange;
+}
+
+.secondButton{
+    position: absolute;
+    top: 24%;
+    left: 45%;
+    padding:5px;
+    border-radius: 5px;
+    color: #fff;
+    background: orange;
+}
+
+.thirdButton{
+    position: absolute;
+    top: 24%;
+    left: 55%;
+    padding:5px;
+    border-radius: 5px;
+    color: #fff;
+    background: orange;
+}
+
+
+#print{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    padding:5px;
+}
+
+#print1{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    padding:5px;
+}
+
+#print2{
+    position: absolute;
+    top: 35%;
+    left: 55%;
+    padding:5px;
+}
+
+#print3{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    padding:5px;
+}
